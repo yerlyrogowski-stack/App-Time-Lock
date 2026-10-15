@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AppTimeLock" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:colorAccent">#496B50</item>
+    </style>
+</resources>

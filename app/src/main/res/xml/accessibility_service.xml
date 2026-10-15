@@ -1,0 +1,11 @@
+<accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowsChanged"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagRetrieveInteractiveWindows"
+    android:canRetrieveWindowContent="true"
+    android:canPerformGestures="false"
+    android:canTakeScreenshot="false"
+    android:isAccessibilityTool="false"
+    android:notificationTimeout="0"
+    android:description="@string/service_description"
+    android:settingsActivity="dev.local.apptimelock.MainActivity" />

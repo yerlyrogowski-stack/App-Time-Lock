@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">应用时间锁</string>
+    <string name="service_name">应用时间锁 · 使用提醒</string>
+    <string name="service_description">识别你正在使用的应用，显示剩余时间，并在时间用完时提醒和拦截。仅在本机处理应用与窗口状态，不读取聊天文字、不截图，不上传数据。你可以随时在系统设置关闭本服务。</string>
+</resources>
